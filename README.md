@@ -1,1 +1,1 @@
-# Deep-for-whole-poeple
+# DeepLearning-for-whole-poeple
